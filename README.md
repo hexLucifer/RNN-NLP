@@ -7,7 +7,9 @@ This is a very basic RNN NLP using TensorFlow. Occasionally updated with functio
 
  - [TensorFlow](https://www.tensorflow.org/)
  - [Natural Language Tool Kit (NLTK)](https://www.nltk.org/)
-
+ - [spaCy](https://spacy.io/)
+ - [tqdm](https://github.com/tqdm/tqdm)
+ - [colorama](https://github.com/tartley/colorama)
 
 ## Contributing
 
